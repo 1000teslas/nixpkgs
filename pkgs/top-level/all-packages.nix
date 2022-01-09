@@ -32147,6 +32147,8 @@ with pkgs;
 
   lingeling = callPackage ../applications/science/logic/lingeling {};
 
+  zipperposition = callPackage ../applications/science/logic/zipperposition {};
+
   ### SCIENCE / ELECTRONICS
 
   adms = callPackage ../applications/science/electronics/adms { };
